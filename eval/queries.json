@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "type": "simple",
+    "query": "markdown parser in Rust",
+    "relevant": ["rvben/rumdl"]
+  },
+  {
+    "id": 2,
+    "type": "descriptive",
+    "query": "python rate limiting middleware for fastapi using redis",
+    "relevant": ["laurentS/slowapi", "EvoluxBR/python-redis-rate-limit"]
+  }
+]
